@@ -1,4 +1,4 @@
-# 
+# new Little Snitch for macOS Integration | biometric-login + junk-file-cleanup is the best Little Snitch for macOS integration, featuring biometric-login and junk-file-cleanup.
 
 
 
